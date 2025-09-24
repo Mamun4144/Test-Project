@@ -26,6 +26,4 @@ $conn->close(); // connection close
 ?>
 
 
-<!-- Hello new repo push -->
-
-<!-- Test new issues -->
+<!-- testing  -->
